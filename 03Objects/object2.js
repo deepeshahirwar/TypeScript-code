@@ -7,7 +7,8 @@
 //     return {name : "" , email : "" , isActive: false};
 //  } 
 //  const data = createUser({name : "" , email : "" , isActive: false}); 
-//  console.log(data); 
+//  console.log(data);  
+
 var student = {
     name: "deepesh",
     rollno: "19384793",
